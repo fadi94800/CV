@@ -57,7 +57,7 @@ header {
 .contact {
     display: grid;
     grid-template-columns: repeat(2, auto);
-    gap: 10px;
+    gap: 20px;
     justify-content: center;
     margin-top: 10px;
 }
@@ -65,7 +65,7 @@ header {
 .contact-item {
     display: flex;
     align-items: center;
-    gap: 5px;
+    gap: 10px;
     color: white;
 }
 
